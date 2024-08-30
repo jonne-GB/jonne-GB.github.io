@@ -282,7 +282,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2024 jonne goudberg. All rights reserved.</p>
+        <p>y; 2024 jonne goudberg. All rights reserved.</p>
     </footer>
 
 </body>
